@@ -1,18 +1,26 @@
 # Лабораторная работа №4
 ### 1. Редактируем файл Dockerfile
-![image](https://github.com/AlekseyEA/lab-4/assets/113459638/e3a7423a-dc01-4de1-a0eb-bea458f33dc4)
-![image](https://github.com/AlekseyEA/lab-4/assets/113459638/71158865-376f-44ef-bdda-844ed600f079)
+![image](https://github.com/AlekseyEA/lab-4/assets/113459638/0394382e-636f-44e6-96a1-923eaf3bffe9)
+![image](https://github.com/AlekseyEA/lab-4/assets/113459638/ad874775-5cdf-43e4-8b42-8ce183e58d5c)
 ### 2. Создаем сборки наших образов
-![image](https://github.com/AlekseyEA/lab-4/assets/113459638/1e29315f-7dc5-43ca-a0ed-5451029935a1)
-![image](https://github.com/AlekseyEA/lab-4/assets/113459638/15bb9019-4930-4086-9ad2-c9b2d0cf1f00)
+![image](https://github.com/AlekseyEA/lab-4/assets/113459638/b0ff0714-1cc3-4521-b806-ba202be0ad03)
+![image](https://github.com/AlekseyEA/lab-4/assets/113459638/d328db5d-9024-469e-ab44-5301896ea95f)
 ### 3. Запускаем контейнер 1
-![image](https://github.com/AlekseyEA/lab-4/assets/113459638/ae420b62-0ad5-42f8-a802-1a86d6a47fd2)
-![image](https://github.com/AlekseyEA/lab-4/assets/113459638/b94aaa30-2e2e-4f9b-a0b8-e3650e84745f)
+![image](https://github.com/AlekseyEA/lab-4/assets/113459638/8cd17d98-88d5-48e8-8246-627e1eebd162)
+![image](https://github.com/AlekseyEA/lab-4/assets/113459638/ab694d9d-28ef-4a1a-af2c-9f4a0824a5e4)
 ### 4. Запускаем контейнер 2 во втором терминале
-![image](https://github.com/AlekseyEA/lab-4/assets/113459638/ff7d7c03-d573-4150-b6fb-09c4193753be)
-![image](https://github.com/AlekseyEA/lab-4/assets/113459638/5be16501-0c0d-4ac7-9fa5-c622082cfad1)
+![image](https://github.com/AlekseyEA/lab-4/assets/113459638/4ff95a5e-2358-45a7-9096-c43c15060c58)
+![image](https://github.com/AlekseyEA/lab-4/assets/113459638/f20b3184-637e-4389-9480-b17c5b70131e)
 ### 5.  Создаем сеть при помощи команды
-![image](https://github.com/AlekseyEA/lab-4/assets/113459638/89981c2a-ae1a-44bb-840c-02d5bc6f1245)
+![image](https://github.com/AlekseyEA/lab-4/assets/113459638/8efba938-3abb-4708-a84b-ca52829aaa26)
 ### 6. Смотрим под какими именами запущены наши контейнеры
-![image](https://github.com/AlekseyEA/lab-4/assets/113459638/4cc449b8-bf47-4ec1-876a-4e6c181731d2)
+![image](https://github.com/AlekseyEA/lab-4/assets/113459638/b7645b66-1789-4f6f-a370-6976a4e99734)
 ### 7. Добавляем контейнеры в сеть.
+![image](https://github.com/AlekseyEA/lab-4/assets/113459638/44aadff4-c2ea-4aca-8417-60f728c0e18c)
+### 8. Смотрим состояние созданной сети.
+![image](https://github.com/AlekseyEA/lab-4/assets/113459638/36fd7542-2f87-4746-a9e2-9876d8cfb7f8)
+![image](https://github.com/AlekseyEA/lab-4/assets/113459638/37480e17-6901-4bec-8ef7-253819b39f39)
+### 9. Тестируем соединение между контейнерами.
+![image](https://github.com/AlekseyEA/lab-4/assets/113459638/f605f723-e8c2-4a4d-bbaf-074b852c3352)
+![image](https://github.com/AlekseyEA/lab-4/assets/113459638/3d4cd75c-60d0-488f-b4a6-41370c9fdeec)
+
